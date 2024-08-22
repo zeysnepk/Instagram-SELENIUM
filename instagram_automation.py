@@ -5,7 +5,7 @@ import time
 import loginInfo
 
 FILE_NAME = "followers.txt" # A text file to save followers' usernames
-ACC_NAME = "leake_y34" #Account name whose followers will be followed
+ACC_NAME = "add_account_username_here" #Account name whose followers will be followed
 
 jscommand = """
 followers = document.querySelector(".xyi19xy.x1ccrb07.xtf3nb5.x1pc53ja.x1lliihq.x1iyjqo2.xs83m0k.xz65tgg.x1rife3k.x1n2onr6");
