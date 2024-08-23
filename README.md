@@ -1,6 +1,6 @@
 # Instagram Follower Automation Script
 
-This Python script automates the process of logging into an Instagram account, scrolling through the followers list, saving the list of followers to a file, and automatically following the followers of another specified account. The script uses the Selenium library to interact with the Instagram web interface.
+This Python script automates the process of logging into an Instagram account, scrolling through the followers list, saving the list of followers to a file and automatically following the followers of another specified account. The script uses the Selenium library to interact with the Instagram web interface.
 
 ## Features
 
